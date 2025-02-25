@@ -1,0 +1,12 @@
+[submodule "homework/01"]
+	path = homework/01
+	url = git@github.com:msu-denver/homework-01-s3-bucket-lsmit202-msudenver
+[submodule "homework/02"]
+	path = homework/02
+	url = git@github.com:msu-denver/homework-02-subnetting-lsmit202-msudenver
+[submodule "homework/03"]
+	path = homework/03
+	url = git@github.com:msu-denver/homework-03-user-policy-lsmit202-msudenver
+[submodule "homework/05"]
+	path = homework/05
+	url = git@github.com:msu-denver/homework-05-ec2-hcl-lsmit202-msudenver
